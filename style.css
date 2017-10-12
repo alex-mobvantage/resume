@@ -33,6 +33,12 @@ section {
   page-break-after: auto;
 }
 
+.subsection {
+  padding: 0.25rem 0;
+  page-break-inside: avoid;
+  page-break-after: auto;
+}
+
 .contact {
   font-size: 0.8rem;
   line-height: 0.8rem;
