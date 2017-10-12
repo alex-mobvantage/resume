@@ -27,6 +27,11 @@ p, ul {
   margin: 0.5rem 0;
 }
 
+i {
+  font-size: 13px;
+  line-height: 13px;
+}
+
 section {
   padding: 0.5rem 0;
   page-break-inside: avoid;
@@ -34,7 +39,7 @@ section {
 }
 
 .subsection {
-  padding: 0.4rem 0;
+  padding: 0.5rem 0;
   page-break-inside: avoid;
   page-break-after: auto;
 }
