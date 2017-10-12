@@ -14,3 +14,7 @@ li:before {
   margin-left: -1.3em;
   width: 1.3em;
 }
+
+.section {
+  padding: 1.5rem
+}
