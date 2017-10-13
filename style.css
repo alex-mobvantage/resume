@@ -37,7 +37,7 @@ p, ul {
 }
 
 section {
-  padding: 0.5rem 0;
+  padding: 0.8rem 0;
   page-break-inside: avoid;
   page-break-after: auto;
 }
