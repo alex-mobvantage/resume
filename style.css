@@ -27,7 +27,11 @@ p, ul {
   margin: 0.5rem 0;
 }
 
-i {
+.fa {
+  margin-right: 5px;
+}
+
+.date {
   font-size: 13px;
   line-height: 13px;
 }
