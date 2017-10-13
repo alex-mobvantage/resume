@@ -38,6 +38,12 @@ section {
   page-break-after: auto;
 }
 
+.has-bottom-divider {
+  border-bottom-width: 1px;
+  border-bottom-color: rgba(0, 0, 0, 0.1);
+  border-bottom-style: solid;
+}
+
 .subsection {
   padding: 0.5rem 0;
   page-break-inside: avoid;
